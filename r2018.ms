@@ -71,5 +71,7 @@ Integrated applications with Adobe Suite products using ExtendScript.
 Education
 .SH 2
 .I "B.S. Software and Internet Applications - Capitol Technology University (2011 - 2015)" 
-.PP
+.RS
+.IP "\(bu" 2
 IEEE Branch Treasurer.
+.RE
