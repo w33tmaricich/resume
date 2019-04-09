@@ -1,16 +1,20 @@
-# Resume - Versioned.
+# My Resume - Versioned.
 
-My resume, version controlled.
+I got tired of loosing track of what was the most up to date on my resume. This
+project holds a template of my resume that can be exported in any format
+supported by groff.
 
-## groff
+## Setup
 
-### install
+Install [groff](https://www.gnu.org/software/groff/)
+
 ```
 $ sudo apt install -y groff
 ```
-### compile
+
+## Build resume.
 If you need a refresher on how to use ms, check the `groff_ms` man page or
-the gist you created.
+[this gist](https://gist.github.com/w33tmaricich/34711cffb9d9f16a9ac1c73fd59b101b)
 
 ```
 $ ls
