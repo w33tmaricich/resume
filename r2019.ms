@@ -14,7 +14,7 @@ Technical Tools
 .SH 2
 .I "Functional & Object Oriented Languages"
 .QP
-Python, Clojure, C, Java, PHP, Bash, ClojureScript, ExtendScript, HTML/CSS,
+Python, Clojure, Go, C, Java, PHP, Bash, ClojureScript, ExtendScript, HTML/CSS,
 JavaScript, Node, Batch, VBA
 .SH 2
 .I "Developer Tools & Frameworks"
