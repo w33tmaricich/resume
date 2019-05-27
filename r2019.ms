@@ -7,47 +7,51 @@
 Alexander Price Maricich / Software Developer
 .AU
 443.481.7120 _ w33tmaricich@gmail.com _ w33tmaricich.com
+.I "B.S. Software and Internet Applications - Capitol Technology University (2011 - 2015) GPA: 3.49"
 
-.BX "Full Stack Development | Video & Image Processing | Micro-services Architecture"
 .SH 1
 Technical Tools
 .SH 2
 .I "Functional & Object Oriented Languages"
 .QP
-Python, Clojure, Go, C, Java, PHP, Bash, ClojureScript, ExtendScript, HTML/CSS,
-JavaScript, Node, Batch, VBA
+Heavy lifting(Go/C), Daily Drivers(Clojure/Java), Scripting & Prototyping(Python/Bash), Web(ClojureScript/JavaScript/React)
 .SH 2
 .I "Developer Tools & Frameworks"
 .QP
-Vim, PostgreSQL, MariaDB, MongoDB, Apache, Nginx, MQTT, Spread, Bootstrap, Caffe, CodeIgnitor,
-jQuery, Angular, React, OpenCV, Doctrine, Ext JS, RTA
+Machine Learning(OpenCV), Message Brokers(MQTT/Spread), SQL & No-SQL(PostgreSQL/MongoDB), Web Servers(Apache/Nginx),
 .SH 2
 .I "Developer Operations"
 .QP
-Git, Maven, Docker, Vagrant, AWS EC2, AWS S3, Leiningen, Jira, Jenkins, Debian, Ubuntu
+Virtualization(Docker/Vagrant), Cloud Architecture(AWS/Azure), Version Control(Git/Subversion), Agile Scrum(Jira), Continuous Integration and Deployment(GitLab/Jenkins), Debian/Red Hat Systems
 .SH 2
 .I "Video & Image Processing"
 .QP
-TCP/IP, REST, WebRTC, RTP, RTSP, RTMP, HLS, Websockets, MediaSourceExtensions, FFMPEG, Wowza
+Network Programming(TCP/Websockets/REST), Live Video Streaming(WebRTC/RTP/RTSP/RTMP/HLS/MediaSourceExtensions), Video Streaming Applications(FFMPEG/Wowza)
 .SH 1
 Professional Experience
 .SH 2
 .I "Software Engineer - Skyline Technology Solutions (2015 - present)"
 .RS
 .PP
-Developed Video Interoperability as a Service (VIaaS) solutions for many state
-agencies. Developed a video transcoding server, media server, and device
-management tool that worked together in large scale deployments to provide
-video normalization, video streaming to users, and visibility into network and
-device usage.
+Designed and developed live video streaming applications utilized by
+departments of transportation around the US.
 Designed and developed features, APIs, and DevOps solutions for all products.
-Designed and developed a front-end, web based, video wall for user consumption.
 .B "Notable Achievements:"
 .LP
 .IP "\(bu"
-Designed and developed proprietary video streaming protocol.
+Wrote, developed, and maintained video transcoding applications that provided
+video protocol, format, and bandwidth normalization.
 .IP "\(bu"
-Developed video analytics and alert system using machine learning frameworks.
+Wrote, developed, and maintained an ecosystem of dockerized micro-services that
+provided secure, on demand live video streaming in an assortment of transport methods.
+.IP "\(bu"
+Developed and maintained applications used to navigate large scale deployments
+as well as use machine learning to detect traffic incidents and anomalies within
+video feeds.
+.IP "\(bu"
+Designed and developed a proprietary, low latency, and secure video streaming protocol from the ground up.
+.IP "\(bu"
+Integrated software with camera manufactures such as Axis, Cohu, Sidewinder, Vicon, etc.
 .RE
 .SH 2
 .I "Jr. Software Developer - Ocean Systems (2012 - 2015)"
@@ -56,22 +60,4 @@ Developed video analytics and alert system using machine learning frameworks.
 Developed forensic video and image analysis software for law enforcement that
 integrated with industry standard tools such as Adobe Photoshop and Illustrator.
 These tools provided the ability to modify digital evidence without compromising
-their credibility. Maintained the company website and developed software tools
-that were used internally.
-.B "Notable Achievements:"
-.LP
-.IP "\(bu" 2
-Designed and developed eye center coordinate detection software using OpenCV.
-.IP "\(bu"
-Designed and developed a web crawler used to pinpoint dead code.
-.IP "\(bu"
-Integrated applications with Adobe Suite products using ExtendScript.
-.RE
-.SH 1
-Education
-.SH 2
-.I "B.S. Software and Internet Applications - Capitol Technology University (2011 - 2015)" 
-.RS
-.IP "\(bu" 2
-IEEE Branch Treasurer.
-.RE
+their ability to be used as evidence in court.
